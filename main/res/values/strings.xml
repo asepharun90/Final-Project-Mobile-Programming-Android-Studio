@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="selamat">Selamat Anda Berhasil\nMenyelesaikan Kuis Ini</string>
+    <string name="pengantar">
+        Perkembangan teknologi sekarang ini telah banyak menunjukkan kemajuan yang luar biasa termasuk android.
+        Android memiliki lisensi gratis bagi penggunanya dan semua kebutuhan pelanggan dapat dipenuhi oleh android
+        bahkan sekarang android menjadi kompetitor yang serius bagi apple di bidang smartphone. Dari perkembangan
+        jaman yang ada itulah saya mencoba memanfaatkan layanan gratis yang disediakan oleh android untuk membuat
+        sebuah aplikasi quiz.\n\nSebuah aplikasi quiz yang ada dalam smartphone tentu dapat memberikan hiburan yang menarik kepada pengguna,
+        serta dapat memberikan media pembelajaran untuk menambah wawasan tentang ilmu pengetahuan. Quiz merupakan
+        bentuk permainan atau pikiran dimana pemain berusaha untuk menjawab pertanyaan dengan benar dalam mencapai
+        satu tujuan dalam pembelajaran. Oleh karena itu beberapa metode terus dikembangkan untuk membuat sebuah
+        aplikasi quiz yang dapat digunakan dalam perangkat bergerak atau mobile, salah satunya dengan menggunakan
+        android.\n\nDengan berkembangnya ilmu teknologi informasi, diiringi juga dengan berkembangnya metode edukasi, salah
+        satunya menambah wawasan tentang ilmu pengetahuan dengan menggunakan aplikasi quiz yang terdapat pada
+        smartphone. Bermain aplikasi quiz pada smartphone bukan salah satu cara untuk mengurangi tingkat kejenuhan.
+        Akan tetapi, merupakan salah satu cara terbaik untuk menstimulasi otak. Contohnya, bermain aplikasi quiz
+        ilmu pengetahuan umum, dimana pada permainan ini pengguna akan diberi pertanyaan tentang ilmu pengetahuan
+        umum, sehingga pengguna dipaksa untuk berfikir dalam menjawab pertanyaan.
+    </string>
+    <string name="tentang">
+        1.	Aplikasi ini dibuat sebagai sarana entertainment (hiburan).
+        \n2.	Materi soal kuis di batasi, hanya bersangkutan tentang hiburan.
+        \n3.	Pembuatan aplikasi ini menggunakan Android Studio.
+        \n4.	Aplikasi ini bersifat offline, dapat dimainkan tanpa menggunakan sambungan internet.
+    </string>
+</resources>
